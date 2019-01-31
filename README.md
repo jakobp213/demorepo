@@ -1,8 +1,8 @@
 # demorepo
 
 ## Maintaners
-+Jakob Pfeiffer
++ Jakob Pfeiffer
 
-##license
+## license
 
 The project is licensed by Apache License
